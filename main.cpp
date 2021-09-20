@@ -5,8 +5,8 @@
 // 		a. To get correct price, the saved value needs to be devided by 10000.0
 // and cast to float.
 //      b. To get correct Epoch timestamp, the saved value needs to be converted.
-// 2. Did not complete the task of generate 5000 Tickers due to limited memory handling. Here is
-// using 100 tickers as example.
+// 2. Did not complete the task of generating 5000 Tickers due to limited memory handling. Here is
+// using 100 tickers for an example.
 
 #include <iostream>
 #include <string>
